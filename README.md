@@ -5,14 +5,14 @@ It is a Java project where administrators can add new articles in the background
 This project was developed in Intellij IDEA, using Java programming language and MySql was used as database.
 
 ## Technologies
-
-
-➡️ Java
-➡️ JSP&Servlet
-➡️ Hibernate
-➡️ Mysql
-➡️ BootStrap5
-➡️ Ajax
+| :arrow_right:| Technologies  | 
+| ------------- |:-------------:|
+| :arrow_right: | Java  | 
+| :arrow_right:| JSP&Servlet   | 
+| :arrow_right: |Hibernate  | 
+| :arrow_right: | Mysql | 
+| :arrow_right:| BootStrap5  | 
+| :arrow_right: | Ajax | 
 
 | 🔐 Admin Account | 🗝️ Password |
 | ------------- |:-------------:|
