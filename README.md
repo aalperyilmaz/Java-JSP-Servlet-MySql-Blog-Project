@@ -9,10 +9,10 @@ This project was developed in Intellij IDEA, using Java programming language and
 | ------------- |:-------------:|
 | :arrow_right: | Java  | 
 | :arrow_right:| JSP&Servlet   | 
-| :arrow_right: |Hibernate  | 
+| :arrow_right: |JDBC  | 
 | :arrow_right: | Mysql | 
 | :arrow_right:| BootStrap5  | 
-| :arrow_right: | Ajax | 
+
 
 | 🔐 Admin Account | 🗝️ Password |
 | ------------- |:-------------:|
