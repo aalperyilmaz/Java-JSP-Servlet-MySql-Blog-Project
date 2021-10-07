@@ -16,7 +16,7 @@ This project was developed in Intellij IDEA, using Java programming language and
 
 | 🔐 Admin Account | 🗝️ Password |
 | ------------- |:-------------:|
-| alper@mail.com	 | 12345 |
+| ```alper@mail.com```	 | 12345 |
 
 
 ## Application Images
