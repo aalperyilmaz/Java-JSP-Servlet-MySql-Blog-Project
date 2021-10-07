@@ -4,17 +4,15 @@
 It is a Java project where administrators can add new articles in the background, edit the article they wrote before or delete the articles they have added. Communication where customer requests can be received, information about the designer, the home page where all articles are listed in chronological order, and the entire article can be read. Servlet structure is used, information is stored in database with MySQL. Java Server Page (JSP) is used to place Java commands in HTML codes.
 This project was developed in Intellij IDEA, using Java programming language and MySql was used as database.
 
-## Capabilities
+## Technologies
 
-| Dil / Yetenek | :arrow_right: | 
-| ------------- |:-------------:|
-| Java | :arrow_right: | 
-| JSP&Servlet | :arrow_right: | 
-| Hibernate | :arrow_right: | 
-| Mysql | :arrow_right: | 
-| BootStrap5 | :arrow_right: | 
-| Ajax | :arrow_right: | 
 
+➡️ Java
+➡️ JSP&Servlet
+➡️ Hibernate
+➡️ Mysql
+➡️ BootStrap5
+➡️ Ajax
 
 | 🔐 Admin Account | 🗝️ Password |
 | ------------- |:-------------:|
