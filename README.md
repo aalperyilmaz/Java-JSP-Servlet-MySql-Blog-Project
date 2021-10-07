@@ -1,2 +1,2 @@
-# -Java-JSP-Servlet-MySql-Blog-Project
+# Java-JSP-Servlet-MySql-Blog-Project
 dsc
